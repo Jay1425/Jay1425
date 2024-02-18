@@ -35,6 +35,7 @@
   <a href="https://discord.com/invite/NJZqeRcHz5"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://mail.google.com/mail/u/?authuser=jayhraychura@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/jayraychura?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://x.com/jay_raychura_?t=zinCVN5fCAVYZAhIPGi_Pg&s=09"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1593314839.1707326239&semt=ais" height="35" alt="X logo"></a>
 </div>
 
 ###
