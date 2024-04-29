@@ -32,23 +32,6 @@ li:hover
 }
 
 
-@keyframes demo {
-    0%{
-        background-color: red;
-        border-radius: 10%;
-    }
-    25%{
-        background-color: blue;
-    }
-    50%{
-        background-color: yellow;
-        border-radius: 50%;
-    }
-    100%{
-        background-color: deeppink;
-    }
-}
-
 .tooltiptext
 {
     visibility: hidden;
