@@ -1,39 +1,64 @@
-<h2 align="left">Hi 👋! My name is Jay and I'm a learner</h2>
+# Hi there, I'm Jay. 👋
 
-###
+Welcome to my GitHub profile! I'm an aspiring **AI & Data Science Engineer** passionate about solving real-world problems through technology. I'm currently a student at **Government Engineering College, Rajkot**.
 
+![AI & Data Science Engineer](https://media.giphy.com/media/7oJvDb0gCoR3k/giphy.gif)
 
-###
+## 🚀 About Me
+- 🎓 Currently studying **Artificial Intelligence & Data Science Engineering**.
+- 🧑‍💻 Programming in **Python**, **Java**, **C**, and many more!
+- 📚 Actively learning **AI/ML**, **Computer Networking**, and **Web Development**.
+- 🌱 I'm always exploring new technologies, especially in **AI/ML** and **Web Development**.
 
-###
+## 🧑‍💻 Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AI](https://img.shields.io/badge/AI-00A9E0?style=flat-square&logo=artificialintelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFD700?style=flat-square&logo=tensorflow&logoColor=black)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 📚 My Study Journey
+Here's a glimpse of what I am studying and have studied:
 
-###
+### 📘 Completed Subjects:
+- **Computer Networking**
+  - "Computer Networks" by Andrew S. Tanenbaum
+  - "Computer Networking: A Top-Down Approach" by Kurose and Ross
+  ![Computer Networks](https://media.giphy.com/media/l0HlY3F1YZ5JY1Q1O/giphy.gif)
 
-<div align="left">
-  <a href="https://youtube.com/@DevOpsJay?si=bcHMmPVLBl8pifiv"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
- <a href="https://www.instagram.com/jay_raychura_?igsh=ZTNvdHh2ZGQ4bHpn"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
-  <a href="https://discord.com/invite/NJZqeRcHz5"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://mail.google.com/mail/u/?authuser=jayhraychura@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/jayraychura?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://x.com/jay_raychura_?t=zinCVN5fCAVYZAhIPGi_Pg&s=09"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1593314839.1707326239&semt=ais" height="35" alt="X logo"></a>
-</div>
+- **Flask Web Development**
+  - Learning by building real-world applications like a blog app.
+  ![Flask App](https://media.giphy.com/media/3oFzmvbfG3vKhL3xK4/giphy.gif)
 
-###
+### 📖 Ongoing Learning:
+- **AI & Data Science** (Book: *Python for Data Analysis* by Wes McKinney)
+  ![AI](https://media.giphy.com/media/3o7TKwXmIH5rOUz7vK/giphy.gif)
+- **Server Deployment** (Learning to deploy server-based applications using Python)
+- **Authentication Systems** (Working on a project related to authentication)
 
-<br clear="both">
+## 🔭 Current Projects:
+- **Blog App** - Using **Flask** for web development.
+  ![Blog App](https://media.giphy.com/media/1xvRf97rXjXcZTNe9D/giphy.gif)
 
-###
+- **Authentication System** - Building secure login systems in Python.
+  ![Authentication GIF](https://media.giphy.com/media/l0MYsszRul5xm1V5C/giphy.gif)
+
+## 💬 Let's Connect!
+Feel free to reach out to me via GitHub issues, pull requests, or any of the following platforms:
+- [LinkedIn](#)
+- [Twitter](#)
+- [Email](#)
+
+## 🎨 Fun Stickers
+![AI Sticker](https://img.shields.io/badge/AI%20Rocks-%23F7DF1E?style=flat-square&logo=python&logoColor=white)
+![Machine Learning Sticker](https://img.shields.io/badge/ML%20Is%20Cool-%2304B404?style=flat-square&logo=tensorflow&logoColor=white)
+
+## 🛠️ Tools I Use
+- **VS Code** for coding and testing.
+- **Linux (Arch)** for my development environment.
+- **Git & GitHub** for version control.
+
+---
+
+Feel free to explore my repositories, and if you like what you see, don't forget to **star** and **fork** my projects! 😄
