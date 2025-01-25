@@ -1,4 +1,4 @@
-# Hi there, I'm Jay. 👋
+# Hi there, I'm JAY. 👋
 
 Welcome to my GitHub profile! I'm an aspiring **AI & Data Science Engineer** passionate about solving real-world problems through technology. I'm currently a student at **Government Engineering College, Rajkot**.
 
@@ -51,8 +51,8 @@ Feel free to reach out to me via GitHub issues, pull requests, or any of the fol
 - [Email](#)
 
 ## 🎨 Fun Stickers
-![AI Sticker](https://img.shields.io/badge/AI%20Rocks-%23F7DF1E?style=flat-square&logo=python&logoColor=white)
-![Machine Learning Sticker](https://img.shields.io/badge/ML%20Is%20Cool-%2304B404?style=flat-square&logo=tensorflow&logoColor=white)
+![AI Sticker](https://giphy.com/stickers/Asigmo-ai-htNR9pecaG0wholr7x)
+![Machine Learning Sticker](https://giphy.com/stickers/Asigmo-ai-htNR9pecaG0wholr7x)
 
 ## 🛠️ Tools I Use
 - **VS Code** for coding and testing.
