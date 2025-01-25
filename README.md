@@ -1,12 +1,8 @@
-![Gradient Background](https://via.placeholder.com/1200x200/800080/ffffff?text=Welcome+to+My+GitHub+Profile)
-
 # Welcome to My GitHub Profile! 👋
 
 Hi, I'm **[Your Name]**, an **Artificial Intelligence and Data Science Engineering** student at **Government Engineering College, Rajkot (GECRAJKOT)**, currently in my 4th semester.
 
 I am passionate about **AI**, **Machine Learning**, **Data Science**, and **Engineering**. I love building projects that revolve around **automation**, **server-side development**, and **AI model deployment**.
-
-![Profile Image](https://your-image-url-here.com)
 
 ## 🚀 My Interests
 
@@ -25,7 +21,7 @@ I am passionate about **AI**, **Machine Learning**, **Data Science**, and **Engi
 - **PyTorch** 🔥
 - **SQL** 💾
 
-![AI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png)
+![AI Logo](https://chatgpt.com/0f96c24e-d0b9-44bd-bde7-18f09e12cc14)
 
 ## 🛠️ Ongoing Projects
 
