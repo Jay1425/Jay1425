@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm **[Your Name]**, an **Artificial Intelligence and Data Science Engineering** student at **Government Engineering College, Rajkot (GECRAJKOT)**, currently in my 4th semester.
+Hi, I'm **Jay**, an **Artificial Intelligence and Data Science Engineering** student at **Government Engineering College, Rajkot (GECRAJKOT)**, currently in my 4th semester.
 
 I am passionate about **AI**, **Machine Learning**, **Data Science**, and **Engineering**. I love building projects that revolve around **automation**, **server-side development**, and **AI model deployment**.
 
