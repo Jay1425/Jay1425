@@ -21,7 +21,7 @@ I am passionate about **AI**, **Machine Learning**, **Data Science**, and **Engi
 - **PyTorch** 🔥
 - **SQL** 💾
 
-![AI Logo](https://chatgpt.com/0f96c24e-d0b9-44bd-bde7-18f09e12cc14)
+![AI Logo](https://ibb.co/ZhNMn57)
 
 ## 🛠️ Ongoing Projects
 
