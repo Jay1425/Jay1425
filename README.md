@@ -21,7 +21,7 @@ I am passionate about **AI**, **Machine Learning**, **Data Science**, and **Engi
 - **PyTorch** 🔥
 - **SQL** 💾
 
-![AI Logo](https://ibb.co/ZhNMn57)
+![AI Logo](https://i.ibb.co/0fQGgTv/DALL-E-2025-01-25-12-51-01-A-futuristic-and-vibrant-artificial-intelligence-AI-themed-background-wit.webp)
 
 ## 🛠️ Ongoing Projects
 
