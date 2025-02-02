@@ -27,27 +27,13 @@ I am passionate about **AI**, **Machine Learning**, **Data Science**, and **Engi
 
 1. **Blog App** - A Flask-based blog platform (Check out my repository!).
 2. **Authentication System** - Implementing secure authentication methods in Python.
-3. **AI for Healthcare** - Using AI to analyze medical data for better healthcare insights.
-
-### Here’s a sneak peek at some of my work:
-
-![GIF of AI in Action](https://media.giphy.com/media/d3Oscw0bmOsSg/giphy.gif)
-
-## 🖼️ Media & Fun Stuff
-
-**Always keep learning and having fun!**
-
-![Sticker](https://your-sticker-url.com)
-
-**The Journey of an AI Engineer:**
-
-![AI in Action](https://media.giphy.com/media/l0MYRyiq8tmtZGHLu/giphy.gif)
+3. **AI for FINANCE** - Using AI to analyze financial data for better finacial insight.
 
 ## 🌍 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) 💼
-- [Twitter](https://twitter.com/your-twitter-profile) 🐦
-- [Portfolio](https://your-portfolio-link.com) 🌟
+- [LinkedIn](https://www.linkedin.com/in/jayraychura) 💼
+- [Twitter](https://x.com/jay_raychura_) 🐦
+- [Portfolio](https://devopsjay.fly.dev) 🌟
 
 ---
 
