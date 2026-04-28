@@ -139,7 +139,7 @@ Tech:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://jayraychura.lovable.app">
+<a href="https://www.jayraychura.me">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
