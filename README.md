@@ -1,158 +1,83 @@
-# Hi, I'm Jay Raychura 👋
+<h1 align="center">Jay Raychura</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Python+Backend+Developer;Flask+%7C+Django+%7C+Machine+Learning;Hackathon+Builder+%26+Problem+Solver;Building+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4200&pause=1600&color=58A6FF&center=true&vCenter=true&width=620&lines=Toward+Machine+Intelligence;Learning+%7C+Reasoning+%7C+Computation;Understanding+the+foundations+of+intelligence" alt="Typing introduction" />
 </p>
-
----
-
-## 🧠 About Me
-
-* 🎓 AI & Data Science Student at **GEC Rajkot**
-* 💻 Backend Developer specializing in **Python, Flask & APIs**
-* 🧠 Exploring **Machine Learning & AI systems**
-* 🏗️ Building real-world platforms like **BMSmart**
-* 🏆 Finalist in **Odoo Hackathon**
-* 🚀 Focused on building scalable products and impactful technology
-
-> My long-term mission is to help push civilization forward through intelligent systems and AI.
-
----
-
-# 🛠 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,sql" />
-</p>
-
-### ⚙️ Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi,androidstudio,git,github,linux" />
-</p>
-
-### 🧠 AI / Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn" />
-</p>
-
-### ☁️ Cloud & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,vercel,cloudflare" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NeonDB-008AFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🏢 BMSmart — Building Management System
-
-A full-stack system designed to manage residential societies.
-
-Features:
-
-* Visitor entry with QR verification
-* Online maintenance payment system
-* Community dashboard
-* Android mobile application
-* Secure backend APIs
-
-Tech:
-
-`Flask` `PostgreSQL` `JWT` `Cloudinary` `Razorpay` `Jetpack Compose`
-
----
-
-### 🎵 NeonForge — AI Music Discovery
-
-A music discovery platform that learns user taste.
-
-Features:
-
-* Playlist learning algorithm
-* Smart recommendations
-* Playlist saving
-* Music discovery UI
-
-Tech:
-
-`Python` `Flask` `ML models` `YouTube metadata`
-
----
-
-### 🔗 BioLink Platform
-
-A multi-user **Link-in-Bio platform**.
-
-Features:
-
-* Authentication system
-* Customizable link pages
-* User dashboard
-* Analytics
-
-Tech:
-
-`Flask` `SQLite` `TailwindCSS`
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jay1425&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay1425&theme=tokyonight&hide_border=true"/>
-
+  <sub>AI &amp; Data Science Engineering student at GEC Rajkot, GTU · <b>'27</b></sub>
 </p>
 
 ---
 
-# 📈 Activity Graph
+I am interested in intelligence as a fundamental question: how systems learn, form representations, reason from incomplete information, and turn computation into knowledge. My attention moves between mathematical structure, cognitive processes, and the practical mechanisms through which intelligent behavior can emerge.
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay1425&theme=tokyo-night"/>
-</p>
+## The Questions That Drive Me
 
----
+- What does it mean for a system to understand rather than only predict?
+- How do learning systems acquire useful representations from limited and imperfect information?
+- Which forms of reasoning can be learned, and which must be structured explicitly?
+- How are knowledge, uncertainty, memory, and abstraction connected?
+- What can computation explain about intelligence, and where might computational models fall short?
+- How can neural systems become more reliable, interpretable, and capable of generalization?
+- What principles might remain constant across biological and artificial forms of intelligence?
 
-# 🌐 Connect With Me
+## Areas of Exploration
+
+**Learning &amp; representation**  
+Neural networks, statistical learning, generalization, optimization, and the ways systems build internal representations.
+
+**Reasoning &amp; knowledge**  
+Logic, inference, problem-solving, uncertainty, memory, and the relationship between knowledge and intelligent action.
+
+**Mathematical structure**  
+Probability, statistics, linear algebra, information, and the mathematical language used to describe learning systems.
+
+**Cognition &amp; computation**  
+Information processing, computational models of cognition, and the boundary between algorithmic procedure and intelligent behavior.
+
+**The evolution of intelligent systems**  
+The long-term relationship between computation, intelligence, knowledge, and the systems that may grow from them.
+
+## Technical Foundations
+
+My technical learning is grounded in building a clear understanding of the tools beneath intelligent systems: programming, data, mathematical modeling, and the discipline of turning abstract ideas into working computation.
+
+I am especially drawn to the connection between:
+
+- **Programming and computation** — expressing ideas precisely and examining how they behave.
+- **Data and learning** — finding structure, measuring uncertainty, and evaluating what a system has actually learned.
+- **Mathematics and models** — using probability, statistics, linear algebra, and optimization to reason about intelligent behavior.
+
+## My Perspective
+
+I see the study of intelligence as an open-ended conversation between mathematics, computation, and our understanding of mind. The most meaningful progress may come not from making systems appear intelligent, but from understanding the principles that allow intelligence to learn, reason, and extend knowledge.
+
+I want to keep moving toward that understanding with patience, technical discipline, and room for uncertainty. In the longer view, I hope to contribute—quietly and carefully—to an intelligence-driven era of civilization.
+
+## Technical Toolkit
 
 <p>
-
-<a href="https://linkedin.com/in/jayraychura">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Jay1425">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.jayraychura.me">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=python,c,java,kotlin,flask,django,git,linux" alt="Python, C, Java, Kotlin, Flask, Django, Git, and Linux" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+## GitHub Activity
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jay1425&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay1425&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay1425&bg_color=0d1117&color=8B949E&line=58A6FF&point=79C0FF&area=true&hide_border=true" alt="GitHub contribution activity" />
+</p>
 
-⭐ *Always building. Always learning.*
+## Contact
+
+[LinkedIn](https://linkedin.com/in/jayraychura) · [Portfolio](https://www.jayraychura.me) · [GitHub](https://github.com/Jay1425)
