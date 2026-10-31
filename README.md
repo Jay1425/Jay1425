@@ -68,16 +68,6 @@ I want to keep moving toward that understanding with patience, technical discipl
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay1425&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay1425&bg_color=0d1117&color=8B949E&line=58A6FF&point=79C0FF&area=true&hide_border=true" alt="GitHub contribution activity" />
-</p>
-
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/jayraychura) · [Portfolio](https://www.jayraychura.me) · [GitHub](https://github.com/Jay1425)
